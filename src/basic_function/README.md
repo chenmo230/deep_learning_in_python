@@ -1,1 +1,1 @@
-## 基于numpy实现了一些基础方法
+## Implemented some basic methods based on numpy
